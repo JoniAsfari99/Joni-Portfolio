@@ -6,7 +6,7 @@ This project showcases my professional profile, skills, work experience, and sel
 
 ## 🌐 Live Website
 
-**[View My Portfolio](https://joniasfari99.github.io/Joni-Portfolio/)**
+[View My Portfolio] https://joniasfari99.github.io/Joni-Portfolio/
 
 ## 🛠️ Technologies Used
 
